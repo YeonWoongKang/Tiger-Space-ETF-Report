@@ -8,6 +8,7 @@ xlsx 파일을 생성해 커밋합니다.
 
 ## 리포트 목록
 
+- [2026-10-02](reports/2026-10-02-tiger-space-etf-weekly.xlsx) — TIGER 미국우주테크(0183J0) 주간 리포트 ([발표 대본](reports/2026-10-02-presentation-script.md))
 - [2026-09-25](reports/2026-09-25-tiger-space-etf-weekly.xlsx) — TIGER 미국우주테크(0183J0) 주간 리포트 ([발표 대본](reports/2026-09-25-presentation-script.md))
 - [2026-09-18](reports/2026-09-18-tiger-space-etf-weekly.xlsx) — TIGER 미국우주테크(0183J0) 주간 리포트 ([발표 대본](reports/2026-09-18-presentation-script.md))
 - [2026-09-11](reports/2026-09-11-tiger-space-etf-weekly.xlsx) — TIGER 미국우주테크(0183J0) 주간 리포트 ([발표 대본](reports/2026-09-11-presentation-script.md))
